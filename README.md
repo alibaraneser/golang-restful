@@ -1,6 +1,6 @@
 # golang-restful
 
-Todo app with RESTful API service with golang.
+Todo app with RESTful API service using golang.
 
 
 Features
