@@ -11,5 +11,3 @@ Features
 
 
 Repository will be constantly updated.
-
-Note That : @adigunhammedolalekan is one of the sources I use
